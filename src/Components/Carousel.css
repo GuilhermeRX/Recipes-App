@@ -1,0 +1,13 @@
+.div-item {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  width: 100%;
+}
+
+.img-carousel {
+  height: 50%;
+  object-fit: cover;
+  width: 50%;
+}
+
